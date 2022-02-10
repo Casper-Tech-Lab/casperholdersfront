@@ -99,7 +99,7 @@ NGINXリバースプロキシにて、直接Casperノードへ接続されます
 NGINXリバースプロキシ設定は、**オープンソースではありません** 。システムアドミンにとっては簡単に対応可能であるのと、ウェブサイトの **商用** 部分でもある為です。
 
 ## CasperHoldersのコア部分
-殆ど全てのCasperHoldersのロジックが、ここにあります。[Link](https://github.com/casperholders/casperholderscore)
+殆ど全てのCasperHoldersのロジックが、ここにあります。[Link](https://github.com/Casper-Tech-Lab/casperholderscore)
 
 ## CasperData
 
